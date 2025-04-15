@@ -1,4 +1,5 @@
 applovin.com, fabb4a8d6852954a45a010b54a5a56e7, DIRECT
+facebook.com, 1458550544253058, DIRECT, c3e20eee3f780d68
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
